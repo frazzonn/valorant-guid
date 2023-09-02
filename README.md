@@ -1,0 +1,2 @@
+# valorant-guid
+nao jogue
