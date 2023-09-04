@@ -1,0 +1,62 @@
+p {
+  color: #d4d4d4;
+  line-height: 27px;
+  font-size: 18px;
+  font-weight: 300;
+  margin-bottom: 64px;
+}
+#container {
+  max-width: 1200px;
+  margin: 0 auto;
+  font-family: 'Lexend', sans-serif;
+  background-color: #565656;
+}
+#titulo {
+  color: #d4d4d4;
+  line-height: 100px;
+  font-size: 100px;
+  font-weight: 500;
+}
+#subtitulo {
+color: #d4d4d4;
+  line-height: 48px;
+  font-size: 32px;
+  font-weight: 500;
+  margin-bottom: 64px;
+}
+.funcoes {
+  color: #d4d4d4;
+  line-height: 48px;
+  font-size: 32px;
+  font-weight: 500;
+}
+.nomes {
+  color: #d4d4d4;
+  line-height: 32px;
+  font-size: 27px;
+  font-weight: 500;
+}
+.lista {
+  color: #d4d4d4;
+  line-height: 27px;
+  font-size: 18px;
+  font-weight: 300;
+  margin-bottom: 32px;
+}
+.imagens {
+  width: 80%;
+  margin-bottom: 32px;
+}
+.linha {
+  color: #ffffff;
+}
+#corpo {
+  background-color: #565656;
+}
+#barra {
+  background-color: #000000;
+  height: 80px;
+  margin-top: 0%;
+  display: flex;
+  justify-content: space-between;
+}
