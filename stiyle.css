@@ -53,7 +53,7 @@ color: #d4d4d4;
   color: #ffffff;
   margin: 32px 0;
 }
-#corpo {
+body {
   background-color: #1B1B1C;
 }
 #barra {
@@ -116,4 +116,43 @@ a {
 }
 a:hover {
   color: #ff6b77;
+}
+.videos {
+  margin-bottom: 32px;
+}
+/* JETT */
+
+#icones {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  align-self: center;
+  gap: 24px;
+}
+#container_imagens {
+  display: flex;
+  margin-top: 32px;
+}
+.habilidades {
+  width: 100px;
+  height: 100px;
+}
+.containerHabilidade {
+  display: flex;
+  align-items: center;
+}
+.containerHabilidade > p {
+  margin-bottom: 0 !important;
+  margin-left: 16px; 
+}
+#icones a {
+  text-decoration: none;
+}
+.containerHabilidade:hover > p {
+  color: #FF4655;
+}
+.linkTitulo {
+  text-decoration: none;
+  color: #ffffff;
 }
